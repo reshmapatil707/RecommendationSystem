@@ -3,7 +3,6 @@
 **Group A**
 We will be working on the project from kaggle: https://www.kaggle.com/competitions/santander-product-recommendation/overview
 
-
     .
     ├── data                    # data files location
     │   ├── final               # Store final clean and grouped data here.
