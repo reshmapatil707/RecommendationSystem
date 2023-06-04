@@ -1,6 +1,7 @@
 # Recommendation System
-We will learn about how to structure the data projects, for productionizing your Data Science &amp; ML work.
-This is the basic folder structure without any dependency manager, config files, dvc, pdoc etc. We will slowly introduce each as the need arises.
+
+**Group A**
+We will be working on the project from kaggle: https://www.kaggle.com/competitions/santander-product-recommendation/overview
 
 
     .
@@ -14,3 +15,8 @@ This is the basic folder structure without any dependency manager, config files,
     ├── src                     # Source files
     ├── tests                   # Automated tests (alternatively `spec` or `tests`)
     └── README.md               # A instructions file.
+
+
+## Contributors
++ Reshma Patil
++ 
