@@ -18,4 +18,5 @@ We will be working on the project from kaggle: https://www.kaggle.com/competitio
 
 ## Contributors
 + Reshma Patil
-+ 
++ Chinmay Wankhade
++ Ranjeet Patil
