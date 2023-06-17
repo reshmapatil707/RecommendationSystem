@@ -4,9 +4,9 @@ from sklearn.ensemble import RandomForestClassifier
 
 import utilities
 
-MAX_ROWS = 1000
+MAX_ROWS = 10000
 df_raw_train = pandas.read_csv("../data/raw/train_ver2.csv", nrows=MAX_ROWS)
-df_raw_test = pandas.read_csv("../data/raw/test_ver2.csv")
+df_raw_test = pandas.read_csv("../data/raw/test_ver2.csv", nrows=MAX_ROWS )
 
 columns = ['fecha_dato', 'ncodpers', 'sexo', 'antiguedad', 'age', 'renta'] + list(df_raw_train.columns[24:-4])
 df_train = df_raw_train[columns].copy()
